@@ -1,3 +1,2 @@
 2-d physics rogue-lite platformer shooter
-
-https://landgreen.github.io/sidescroller/
+Original: https://landgreen.github.io/sidescroller/
